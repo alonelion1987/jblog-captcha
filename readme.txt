@@ -3,7 +3,7 @@ Contributors: alonelion1987
 Official website: http://jblog-project.ru/kapcha-v-polzovatelskix-formax/
 Tags: anti-spam, antispam, anti-spam security, captcha, custom form captcha, symbol captcha, security custom form, custom captcha, capcha, develop captcha, kit captcha, login captcha
 Requires at least: 4.2
-Tested up to: 4.4.1
+Tested up to: 4.5
 Stable tag: 1.4.3 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
