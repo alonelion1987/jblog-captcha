@@ -17,7 +17,7 @@
 ### Примеры использования на официальном сайте
 
 Примеры использования доступны на официальном сайте:
-[Оф. страница](http://jblog-project.ru/kapcha-v-polzovatelskix-formax/) |
+[Оф. страница](https://zharikov.site/kapcha-v-polzovatelskix-formax/) |
 [Пример использования плагина при создании AJAX формы обратной связи](http://jblog-project.ru/sozdaem-ajax-kontakt-formu-v-wordpress/)
 
 ### Примеры использования
