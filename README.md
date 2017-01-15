@@ -28,7 +28,7 @@
 
 Шорткод выведет вот такую картинку и поле ввода:
 
-![Капча](http://jblog-project.ru/wp-content/uploads/2016/02/captcha_example.png)
+![Капча](https://zharikov.site/wp-content/uploads/2016/02/captcha_example.png)
 
 Атрибут **name** текстового поля **str** (возможно, будет необходим, если вы будете передавать данные AJAX, в примерах есть акцент на этот момент)
 
