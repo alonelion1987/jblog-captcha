@@ -3,12 +3,12 @@
 Plugin Name: JBlog Captcha
 Version: 1.4.3
 Description: Генерируемая капча из цифр и латинских символов. Предназначена для использования в пользовательских формах и выводится простым шорткодом, а также автоматически подключается к форме входа в админку. Инструкции по использованию: Настройки — JBlog Captcha.
-Plugin URI: http://jblog-project.ru/kapcha-v-polzovatelskix-formax/
+Plugin URI: https://zharikov.site/kapcha-v-polzovatelskix-formax/
 Author: JBlog
-Author URI: http://jblog-project.ru/
+Author URI: https://zharikov.site/
 */
 
-/*  Copyright 2015  Roman Yakovlev  (email : admin@jblog-project.ru)
+/*  Copyright 2015
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
