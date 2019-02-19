@@ -1,6 +1,6 @@
 === JBlog Captcha ===
 Contributors: alonelion1987
-Official website: http://jblog-project.ru/kapcha-v-polzovatelskix-formax/
+Official website: https://zharikov.site/kapcha-v-polzovatelskix-formax/
 Tags: anti-spam, antispam, anti-spam security, captcha, custom form captcha, symbol captcha, security custom form, custom captcha, capcha, develop captcha, kit captcha, login captcha
 Requires at least: 4.2
 Tested up to: 4.5 
@@ -22,8 +22,8 @@ The documentation provided with comprehensive information on the methods of trea
 
 Version 1.4.1 captcha automatically connects to the login form admin.
 
-[Official plugin page](http://jblog-project.ru/kapcha-v-polzovatelskix-formax/)
-[Example ajax- feedback forms on the basis of this plugin](http://jblog-project.ru/sozdaem-ajax-kontakt-formu-v-wordpress/)
+[Official plugin page](https://zharikov.site/kapcha-v-polzovatelskix-formax/)
+[Example ajax- feedback forms on the basis of this plugin](https://zharikov.site/sozdaem-ajax-kontakt-formu-v-wordpress/)
 
 
 
